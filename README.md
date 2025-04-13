@@ -66,7 +66,7 @@ This repository is for academic use only as part of the DA 401 course at Denison
 
 ## 🙌 Acknowledgments
 
-- Professor [Instructor Name] – for guidance throughout the semester  
+- Professor Alexandre Scarcioffolo, Professor Fadhel Kaboub – for guidance throughout the semester  
 - Denison Investment Office – for practical insight into bank capital behavior  
 - Bloomberg Terminal – for access to historical financial data
 
