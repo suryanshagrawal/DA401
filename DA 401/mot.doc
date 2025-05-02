@@ -1,0 +1,93 @@
+
+<table style="text-align:center"><tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="2">CET1</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">PX_TO_BOOK_RATIO</td><td>0.207</td><td>-6.948</td></tr>
+<tr><td style="text-align:left"></td><td>(0.385)</td><td>(5.246)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">VOLATILITY_30D</td><td>0.001</td><td>0.162</td></tr>
+<tr><td style="text-align:left"></td><td>(0.004)</td><td>(0.119)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">TOT_LOAN_TO_TOT_DPST</td><td>-0.027<sup>*</sup></td><td>-1.814<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.014)</td><td>(0.368)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">BS_TOT_ASSET</td><td>0.00000</td><td>-0.00002<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.00000)</td><td>(0.00000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">RETURN_COM_EQY</td><td>0.031</td><td>0.083</td></tr>
+<tr><td style="text-align:left"></td><td>(0.062)</td><td>(0.251)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">RETURN_ON_ASSET</td><td>1.482<sup>**</sup></td><td>-1.769</td></tr>
+<tr><td style="text-align:left"></td><td>(0.697)</td><td>(3.446)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">NPLS_TO_TOTAL_LOANS</td><td>0.902</td><td>-7.274<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.550)</td><td>(2.789)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">GROWTH_IN_TOT_LOAN</td><td>0.015</td><td>-0.015</td></tr>
+<tr><td style="text-align:left"></td><td>(0.014)</td><td>(0.016)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">NON_INT_INC</td><td>-0.0001</td><td>0.0002<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.00005)</td><td>(0.0001)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">DVD_PAYOUT_RATIO</td><td>0.0003</td><td>0.007</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0002)</td><td>(0.005)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(PX_TO_BOOK_RATIO2)</td><td></td><td>0.972</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.848)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(VOLATILITY_30D2)</td><td></td><td>0.0002</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.0001)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(TOT_LOAN_TO_TOT_DPST2)</td><td></td><td>0.011<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.002)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(BS_TOT_ASSET2)</td><td></td><td>0.000<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(RETURN_COM_EQY2)</td><td></td><td>0.004</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.009)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(RETURN_ON_ASSET2)</td><td></td><td>0.395</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(1.299)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(NPLS_TO_TOTAL_LOANS2)</td><td></td><td>5.394<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(1.956)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(GROWTH_IN_TOT_LOAN2)</td><td></td><td>-0.002<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.001)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(NON_INT_INC2)</td><td></td><td>-0.000</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">I(DVD_PAYOUT_RATIO2)</td><td></td><td>-0.00000</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.00000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">PX_TO_BOOK_RATIO:VOLATILITY_30D</td><td></td><td>-0.024</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.022)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">PX_TO_BOOK_RATIO:TOT_LOAN_TO_TOT_DPST</td><td></td><td>0.072</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.050)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">PX_TO_BOOK_RATIO:BS_TOT_ASSET</td><td></td><td>-0.00000</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.00000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">VOLATILITY_30D:TOT_LOAN_TO_TOT_DPST</td><td></td><td>-0.002</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.001)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">VOLATILITY_30D:BS_TOT_ASSET</td><td></td><td>-0.00000</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">TOT_LOAN_TO_TOT_DPST:BS_TOT_ASSET</td><td></td><td>0.00000<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.00000)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>8.518<sup>***</sup></td><td>90.928<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(1.373)</td><td>(17.545)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>126</td><td>126</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.350</td><td>0.724</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.294</td><td>0.651</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>0.787 (df = 115)</td><td>0.553 (df = 99)</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>6.196<sup>***</sup> (df = 10; 115)</td><td>9.964<sup>***</sup> (df = 26; 99)</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="2" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>
